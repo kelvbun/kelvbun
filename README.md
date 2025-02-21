@@ -7,10 +7,8 @@ I'm a passionate software developer who loves coding, learning new technologies,
 - 🌱 I’m currently learning advanced topics in machine learning and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
 
-## 📈 GitHub Stats
-
-![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinlikescoding&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinlikescoding&layout=compact&theme=radical)
-
-
-Thanks for stopping by! Have a great day! 😊
+## my stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvinlikescoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelvinlikescoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
