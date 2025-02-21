@@ -1,4 +1,4 @@
-# Hi there, I'm kelvin! 👋
+# hello, i'm kelvin! 👋
 - coder for fun
 - loves listening to spoify
 - hates going to unknown places
