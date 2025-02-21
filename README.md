@@ -4,7 +4,7 @@
 - hates going to unknown places
 
 # about me
-- learning python
+- learning python & c++
 - trying to contribute via pr
 - loves feedback
 
